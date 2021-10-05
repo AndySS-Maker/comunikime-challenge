@@ -20,4 +20,4 @@
 <p><a href="https://github.com/AndySS-Maker">Anderson Silva</a> estudante de Desenvolvimento Web Fullstack na escola espanhola de tecnologia Ironhack, buscando através do atual projeto uma oportunidade para ingressar junto a empresa minha carreira em tecnologia.</p>
 
 <p>Conheça mais sobre esse projeto em:</p>
-  <a href="">Confira o app aqui!</a>
+  <a href="https://github.com/AndySS-Maker/comunikime-challenge">Confira o app aqui!</a>
