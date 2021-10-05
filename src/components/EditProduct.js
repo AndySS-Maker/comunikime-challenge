@@ -54,7 +54,7 @@ class EditProduct extends Component {
 render() {
   return (
       <div className="container pt-5 mb-5 mt-5">
-          <h2 className="mb-3">Editar Veículo</h2>
+          <h2 className="mb-3">Editar Produto</h2>
 
           <form onSubmit={this.handleSubmit}>
               <TextInput
