@@ -48,35 +48,6 @@ function Footer () {
 
                 <hr className="mb-4"/>
 
-                <div className="row align-items-center">
-
-                    <div className="col-md-7 col-lg-8">
-                        <p>2021 Todos os direitos reservados.</p>
-                        
-                    </div>
-
-                    <div className="col-md-5 col-lg-4">
-                        <div className="text-center text-md-right">
-
-                            <ul className="list-unstyled list-inline">
-                                <li className="list-inline-item">
-                                    <Link to="#" className="btn-floating btn-sm text-white" style={{fontSize: "23px"}}><i className="fab fa-facebook"></i></Link>
-                                </li>
-                                <li className="list-inline-item">
-                                    <Link to="#" className="btn-floating btn-sm text-white" style={{fontSize: "23px"}}><i className="fab fa-twitter"></i></Link>
-                                </li>
-                                <li className="list-inline-item">
-                                    <Link to="#" className="btn-floating btn-sm text-white" style={{fontSize: "23px"}}><i className="fab fa-instagram"></i></Link>
-                                </li>
-
-                            </ul>
-                            
-                        </div>
-                        
-                    </div>
-                    
-                </div>
-
             </div>
 	
         </div>

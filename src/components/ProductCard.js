@@ -22,7 +22,7 @@ function ProductCard(props) {
                     title="Comprar Produto"
                     className="text-primary"
                   > 
-                    <i className="fas fa-car-side"></i> Comprar Produto
+                    <i class="fas fa-shopping-cart"></i> Comprar Produto
                     </Link>
                     <br/>
 
